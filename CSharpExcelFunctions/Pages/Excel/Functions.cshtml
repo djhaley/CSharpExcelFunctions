@@ -1,0 +1,8 @@
+﻿@page
+@model MyData.Web.Pages.Excel.FunctionsModel
+
+@{
+    Response.ContentType = "text/javascript";
+}
+
+@Html.Raw(Model.JavaScript)
