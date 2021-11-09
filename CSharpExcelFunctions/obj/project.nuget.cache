@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ihKLYWbAVrrLRkAThv2dealcnY7CHIZdQ6uztiPYX/Kl2kiafbsSj5mC84hBSd2faqjnqKGaPYUUdP4D2UtEyQ==",
+  "success": true,
+  "projectFilePath": "C:\\repos\\CSharpExcelFunctions\\CSharpExcelFunctions\\CSharpExcelFunctions.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\djhal\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

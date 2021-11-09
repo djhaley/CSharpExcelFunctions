@@ -1,0 +1,8 @@
+﻿@page
+@model MyData.Web.Pages.Excel.FunctionsJsonModel
+
+@{
+    Response.ContentType = "application/json";
+}
+
+@Html.Raw(Model.Json)
